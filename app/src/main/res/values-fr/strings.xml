@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Signals from Mars</string>
+    <string name="main_image_view_cnt_desc">Signals from Mars</string>
+    <string name="main_button_text">Commencer l\'aventure</string>
+    <string name="main_edit_text_hint">Entrer votre nom pour commencer</string>
+    <string name="page0_choice1">S\'arrêter et enquêter</string>
+    <string name="page0_text">Lors de votre retour de voyage pour étudier les anneaux de Saturne, vous entendez un signal de détresse qui semble venir de la surface de Mars. C\'est étrange car il n\'y a plus de colonie depuis des années. Plus étrange encore, il vous appelle par votre nom : \"Aidez moi, %1$s, vous êtes mon seul espoir.\".</string>
+    <string name="page1_choice1">Explorer la grotte</string>
+    <string name="page1_choice2">Explorer le rover</string>
+    <string name="page1_text">Vous atterrissez habilement votre vaisseau près du lieu où le signal de détresse est originaire. Vous n\'avez rien remarqué d\'étrange lors de votre approche, mais il y a une grotte devant vous. Derrière vous se trouve un rover abandonné datant du début du 21ème siècle.</string>
+    <string name="page2_choice1">Revener sur Mars pour enguêter</string>
+    <string name="page2_choice2">Continuez vers la maison sur Terre</string>
+    <string name="page0_choice2">Continuez vers la maison sur Terre</string>
+    <string name="page2_text">Vous continuez votre course vers la Terre. Deux jours plus tard, vous recevez une transmission du QG annonçant qu\'ils ont détecté une sorte d\'anomalie sur la surface de Mars près d\'un rover abandonné. Ils vous demandent d\'enquêter, mais finalement la décision vous appartient puisque votre mission a déjà duré beaucoup plus longtemps que prévu et les provisions sont basses.</string>
+    <string name="page3_text">Votre combinaison EVA est équipée d\'une lampe frontale, qui vous permet de vous déplacer dans la grotte. Après avoir cherché pendant un certain temps, votre niveau d\'oxygène commence à atteindre un seuil critique. Vous savez que vous devez vous recharger en oxygène, mais vous apercevez une faible lueur devant vous.</string>
+    <string name="page3_choice2">Continuez vers cette lueur</string>
+    <string name="page3_choice1">Recharger à votre vaisseau et explorer le rover</string>
+    <string name="page4_text">Le rover est couvert de poussière et la plupart des panneaux solaires sont brisés. Mais vous êtes surpris de voir le système à bord démarré et fonctionnel. En fait, il y a un message sur l\'écran : \"%1$s, rendez-vous à ce point 28.543436,-81.369031.\". Ces coordonnées ne sont pas très loin, mais vous ne savez pas si votre oxygène sera suffisant pour y aller et revenir. </string>
+    <string name="page4_choice2">Retourner sur Terre</string>
+    <string name="page4_choice1">Explorer les coordonnées</string>
+    <string name="page5_text">Après une longue ascension, vous vous retrouvez en haut d\'un cratère. Vous regardez autour de vous et vous êtes ravi de voir votre android favori, %1$s-S1124. Il avait été perdu sur une précédente mission vers Mars ! Vous le ramenez dans votre vaisseau et rentrez sur Terre.</string>
+    <string name="page6_text">Vous arrivez chez vous sur Terre. Alors que votre mission a été un succès, vous vous demandez toujours ce qui envoie ce signal. Peut être qu\'une future mission sera mise en place pour percer ce mystère...</string>
+    <string name="play_again_button">Recommencer</string>
+    <string name="default_name">Bot</string>
+</resources>

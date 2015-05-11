@@ -25,3 +25,16 @@ proguard/
 
 # Log Files
 *.log
+
+# User-specific stuff:
+#.idea/workspace.xml
+#.idea/tasks.xml
+#.idea/dictionaries
+.idea/
+*.iml
+
+# Windows clutter
+Thumbs.db
+
+# Mac OS X clutter
+*.DS_Store
